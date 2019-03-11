@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "335137485802",
+    "firebase_url": "https://fir-calendar-b92db.firebaseio.com",
+    "project_id": "fir-calendar-b92db",
+    "storage_bucket": "fir-calendar-b92db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335137485802:android:9e54256da4f92be9",
+        "android_client_info": {
+          "package_name": "com.example.chef_.firebasecalendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335137485802-d4maom4tt6aud17g625amubdhm61jc9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chef_.firebasecalendar",
+            "certificate_hash": "bebdbc55c24de51304f0008f2851b13ca69df07c"
+          }
+        },
+        {
+          "client_id": "335137485802-8rr74mpq88lcb66ciptc16pgfts64e0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFj6PCnGj7pb8vghhPwgWVP4PIRepX0gA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335137485802-8rr74mpq88lcb66ciptc16pgfts64e0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
