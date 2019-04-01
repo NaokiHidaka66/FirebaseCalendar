@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FirebaseCalendar</string>
+    <string name="format_month_year">これ何？</string>
 </resources>

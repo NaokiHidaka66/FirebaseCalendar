@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scheduleview"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:layout_alignParentTop="true"
+    android:layout_marginTop="0dp"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/datetext"
+        android:layout_width="112dp"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:id="@+id/contentview"
+        android:layout_width="386dp"
+        android:layout_height="66dp" />
+</LinearLayout>
